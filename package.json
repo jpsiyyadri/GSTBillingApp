@@ -1,0 +1,19 @@
+{
+  "name": "gstbillingapp",
+  "version": "1.0.0",
+  "description": "create and save bills from firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpsiyyadri/GSTBillingApp.git"
+  },
+  "author": "JP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpsiyyadri/GSTBillingApp/issues"
+  },
+  "homepage": "https://github.com/jpsiyyadri/GSTBillingApp#readme"
+}
